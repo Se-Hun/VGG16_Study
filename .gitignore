@@ -1,0 +1,8 @@
+# Ignore Data Folder
+data/
+
+# Ignore .idea Folder
+.idea/
+
+# Ignore .ipynb_checkpoints
+.ipynb_checkpoints/
